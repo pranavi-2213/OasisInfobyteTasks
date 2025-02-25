@@ -28,5 +28,5 @@ Implemented **Logistic Regression, Decision Tree, and SVM** for classification.
 ## 📂 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Iris-Flower-Classification.git
+   git clone https://github.com/pranavi-2213/Iris-Flower-Classification.git
    cd Iris-Flower-Classification
