@@ -60,7 +60,7 @@ This project analyzes **unemployment trends** using **Python**, helping to visua
 
 ---
 
-## 🚗 Car Price Prediction Using Machine Learning
+## 🚗TASK 2: Car Price Prediction Using Machine Learning
 This project was developed as part of my internship at Oasis Infobyte, where I built a Car Price Prediction Model using Machine Learning techniques. The model predicts car prices based on features like brand, year, mileage, fuel type, and more to help users estimate the market value of vehicles.
 
 📌 Project Overview
