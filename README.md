@@ -60,14 +60,14 @@ This project analyzes **unemployment trends** using **Python**, helping to visua
 
 ---
 
-## 🚗TASK 2: Car Price Prediction Using Machine Learning
+## 🚗TASK 3: Car Price Prediction Using Machine Learning
 This project was developed as part of my internship at Oasis Infobyte, where I built a Car Price Prediction Model using Machine Learning techniques. The model predicts car prices based on features like brand, year, mileage, fuel type, and more to help users estimate the market value of vehicles.
 
 ### 📌 Project Overview
-🔹 Collected and preprocessed car dataset
-🔹 Explored and visualized data for insights
-🔹 Built multiple regression models for prediction
-🔹 Evaluated model performance using various metrics
+- Collected and preprocessed car dataset
+- Explored and visualized data for insights
+- Built multiple regression models for prediction
+- Evaluated model performance using various metrics
 
 ### 🛠️ Technologies Used
 ✅ Python
@@ -75,6 +75,12 @@ This project was developed as part of my internship at Oasis Infobyte, where I b
 ✅ Scikit-Learn
 ✅ Machine Learning Algorithms (Linear Regression, Random Forest, etc.)
 ✅ Matplotlib, Seaborn (Data Visualization)
+
+### 🚀 Results & Insights
+- The model successfully predicts car prices with high accuracy.
+- Random Forest Regression performed the best among the tested algorithms.
+- Key factors influencing car prices include brand, year of manufacture, mileage, and fuel type.
+- Data visualization highlighted strong correlations between car age and depreciation trends.
 
 ## 📂 How to Run  
 1. Clone this repository:  
